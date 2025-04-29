@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+  font-family: "Josefin Sans", sans-serif;
+}
+.input::placeholder {
+  font-family: "Jura", sans-serif;
+  font-size: 0.8em;
+}
+/* button {
+  padding: 0.5em 1em;
+} */
