@@ -1,12 +1,14 @@
 import './App.css'
 // import CardList from './components/CardList'
-import Hero from './components/Hero'
+// import Hero from './components/Hero'
+import Test from './components/test'
 
 function App() {
 
   return (
     <div className='min-h-screen bg-[#EAEAEA] pb-6'>
-      <Hero />
+      {/* <Hero /> */}
+      <Test />
       {/* <CardList /> */}
     </div>
   )

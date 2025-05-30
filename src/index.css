@@ -11,3 +11,13 @@
 /* button {
   padding: 0.5em 1em;
 } */
+
+.app-light {
+  background-color: aquamarine;
+  color: black;
+}
+
+.app-dark {
+  background-color: black;
+  color: whitesmoke;
+}
